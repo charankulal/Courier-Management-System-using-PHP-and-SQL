@@ -9,53 +9,54 @@
 
 1. Xampp server 
    ![xampp server](Screenshots/xamppserver.png)
+   Click on start apache and sql and open the admin views by clicking admin button
 
-2. xampp sql database
+3. xampp sql database
       ![xampp sql databse](Screenshots/xamppsqldatabase.png)
 
-3. Login Page
+4. Login Page
       ![Login Page](Screenshots/loginpage.png)
 
-4. Admin Dashboard
+5. Admin Dashboard
        ![Admin Dashboard](Screenshots/admindashboard.png)
 
-5. Add New Branch
+6. Add New Branch
        ![Add New Branch](Screenshots/addnewbranch.png)
 
-6. List All Branches
+7. List All Branches
        ![List All Branches](Screenshots/listallbranches.png)
 
-7. Edit Branch Details
+8. Edit Branch Details
        ![Edit Branch](Screenshots/editbranch.png)
 
-8. Add New Parcel
+9. Add New Parcel
        ![Add New Parcel](Screenshots/addnewparcel.png)
 
-9. List All Parcels
+10. List All Parcels
        ![List All Parcels](Screenshots/listallparcel.png)
 
-10. Add New Staff
+11. Add New Staff
        ![Add new staff](Screenshots/addnewstaff.png)
 
-11. List All the Staffs
+12. List All the Staffs
        ![List of stff](Screenshots/listallstaff.png)
 
-12. Edit staff Details
+13. Edit staff Details
        ![Edit staff](Screenshots/editstaff.png)
 
-13. Track Parcels
+14. Track Parcels
        ![Tarck Parcels](Screenshots/trackparcel.png)
 
-14. Report Page
+15. Report Page
        ![Report Page](Screenshots/reports.png)   
 
-15. Download or print the report
+16. Download or print the report
        ![Generate Report](Screenshots/generatereport.png)
 
-16. Employee Dashboard
+17. Employee Dashboard
        ![Employee Dashboard](Screenshots/employeedashboard.png)
 
-17. List of parcels in employee view
+18. List of parcels in employee view
        ![List of parcels](Screenshots/parcellistinemployeeview.png)
 
       
