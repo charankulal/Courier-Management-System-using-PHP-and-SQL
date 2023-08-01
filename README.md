@@ -1,6 +1,8 @@
 # Courier Management System
 ## The courier management system is a web application built by using PHP and SQL
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=charankulal&repo=Courier-Management-System-using-PHP-and-SQL)
+
 ### -> It facilitates employees and admin to track all the parcels, deliveries and payment details.
 
 ### -> The web app is locally hosted using xampp server and database is managed by using xampp sql admin.
