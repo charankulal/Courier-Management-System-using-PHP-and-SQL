@@ -188,14 +188,7 @@
 		    method: 'POST',
 		    type: 'POST',
 			success:function(resp){
-			// if(resp){
-      //       resp = JSON.parse(resp)
-      //       if(resp.status == 1){
-      //         alert_toast('Data successfully saved',"success");
-      //         end_load()
-      //         var nw = window.open('print_pdets.php?ids='+resp.ids,"_blank","height=700,width=900")
-      //       }
-			// }
+			
         if(resp == 1){
             alert_toast('Data successfully saved',"success");
             setTimeout(function(){
