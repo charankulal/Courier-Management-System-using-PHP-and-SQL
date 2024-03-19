@@ -35,19 +35,19 @@ Class Action {
 		}
 		header("location:login.php");
 	}
-	function login2(){
-		extract($_POST);
-			$qry = $this->db->query("SELECT *,concat(lastname,', ',firstname,' ',middlename) as name FROM students where student_code = '".$student_code."' ");
-		if($qry->num_rows > 0){
-			foreach ($qry->fetch_array() as $key => $value) {
-				if($key != 'password' && !is_numeric($key))
-					$_SESSION['rs_'.$key] = $value;
-			}
-				return 1;
-		}else{
-			return 3;
-		}
-	}
+	// function login2(){
+	// 	extract($_POST);
+	// 		$qry = $this->db->query("SELECT *,concat(lastname,', ',firstname,' ',middlename) as name FROM students where student_code = '".$student_code."' ");
+	// 	if($qry->num_rows > 0){
+	// 		foreach ($qry->fetch_array() as $key => $value) {
+	// 			if($key != 'password' && !is_numeric($key))
+	// 				$_SESSION['rs_'.$key] = $value;
+	// 		}
+	// 			return 1;
+	// 	}else{
+	// 		return 3;
+	// 	}
+	// }
 	function save_user(){
 		extract($_POST);
 		$data = "";
